@@ -1,0 +1,22 @@
+Responda as questões
+
+a) Qual a diferença entre <b> e <p>?
+
+R:  A diferença é que a tag <b> é usada para tornar o texto em negrito. 
+   A tag <p> é usada para criar um parágrafo dentro do texto
+
+
+b) ache o erro na linha de código:
+
+<p<center> e </p<center>
+
+O erro está na formatação da tag, a tag correta seria <center> e </center>
+
+
+
+
+
+c) qual a função da tag <a href> ?
+
+
+A função dessa tag, é criar um link dentro do text
