@@ -1,4 +1,4 @@
-Responda as questões
+<p> Responda as questões
 
 a) Qual a diferença entre <b> e <p>?
 
@@ -11,8 +11,6 @@ b) ache o erro na linha de código:
 <p<center> e </p<center>
 
 O erro está na formatação da tag, a tag correta seria <center> e </center>
-
-
 
 
 
